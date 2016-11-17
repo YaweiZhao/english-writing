@@ -201,9 +201,16 @@ a faster depletion of its battery power
 residual power
 ### **shift**
 This paradigm shifts the focus from the traditional approaches to a more data-centric approach.
-
-
-
+### **be lumped into, single condition**
+These two possibilities can be lumped into a single condition.
+### **peripheral role **
+Fritz John conditions in their classical form have played a somewhat peripheral role in the development of Lagrange multiplier theory.
+### **be in analogy with ‘和 ... 类似'**
+Complementary violation condition is in analogy with the Complementary slackness conditon.
+###**allude to '间接提到'**
+We thus obtain the Lagrange multiplier theorem alluded to in Section 5.1.
+###**in place of**
+The assertion that the multipliers satisfy the CV condition in place of CS condition.
 
 
  
