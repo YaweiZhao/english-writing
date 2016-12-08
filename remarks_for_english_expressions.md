@@ -2,7 +2,24 @@
 
 # Remarks for English expressions
 
+
+
+### illuminating, 富有启发性的 **###
+
+It is illuminating to discuss these properties in some generality.
+
+###**distort, unaffect**###
+
+Gaussian is strongly distorted by the outliers, whereas the t-distribution is relatively unaffected.
+
+
+###**reciprocal**###
+
+The result will be the reciprocal of the normalization coefficient.
+
+
 ### **lags behind, with respect to**
+
 it lags behind its non-stochastic counterparts with respect to the convergence rate.
 ### **mitigate, shortcoming**
 SVRG mitigates this shortcoming.
@@ -211,6 +228,10 @@ Complementary violation condition is in analogy with the Complementary slackness
 We thus obtain the Lagrange multiplier theorem alluded to in Section 5.1.
 ###**in place of**
 The assertion that the multipliers satisfy the CV condition in place of CS condition.
+###**corroborate '证实'**
+This finding has been corroborated.
+###**exacerbate '激化，使加重'**
+The lack of standards in the community exacerbates the impact of unfair behavior.
 
 
- 
+
